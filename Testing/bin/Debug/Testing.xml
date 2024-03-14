@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Testing</name>
+    </assembly>
+    <members>
+        <member name="T:Testing.errorexceptio">
+            <summary>
+            this method is used to check empty enter data 
+            </summary>
+        </member>
+        <member name="T:Testing.DrawingCircles">
+            <summary>
+            this testing method will test  circle wih the differnt multiple command 
+            </summary>
+        </member>
+        <member name="T:Testing.DrawingLines">
+            <summary>
+            tasting to make different line and it works or not
+            </summary>
+        </member>
+        <member name="M:Testing.DrawingLines.Action_DrawingLine_WithNoParameters">
+            <summary>
+            assert will chenter erther the actual value is similar with the assert or not 
+            </summary>
+        </member>
+        <member name="T:Testing.DrawingTriangles">
+            <summary>
+             in the method we have made the equilateral trangle and tasted it 
+            </summary>
+        </member>
+        <member name="M:Testing.DrawingTriangles.ParseAction_DrawingTriangle_WithZeroParameters">
+            <summary>
+            checking the trangle without the parametrs 
+            </summary>
+        </member>
+        <member name="M:Testing.DrawingTriangles.ParseAction_DrawingTriangle_WithDifferentCase">
+            <summary>
+            checking withe the different text formte 
+            </summary>
+        </member>
+        <member name="T:Testing.DrawingTriangles.DrawingRectangles">
+            <summary>
+            this below tasting method is used to tast the trangle with the different  parametr 
+            </summary>
+        </member>
+        <member name="M:Testing.DrawingTriangles.DrawingRectangles.ParseAction_DrawingRectangle_WithParameters">
+            <summary>
+            testing with the wright command and parameters
+            </summary>
+        </member>
+        <member name="M:Testing.DrawingTriangles.DrawingRectangles.ParseAction_DrawingRectangle_WithDifferentCase">
+            <summary>
+            testing with the upper case words and  we can the shape of the rectangle 
+            </summary>
+        </member>
+        <member name="M:Testing.DrawingTriangles.DrawingRectangles.ParseInput_DrawingRectangle_WithParameters">
+            <summary>
+            testing withe  the lower case letter
+            </summary>
+        </member>
+        <member name="M:Testing.DrawingTriangles.DrawingRectangles.ParseInput_DrawingRectangle_WithDifferentCase">
+            <summary>
+            testing the rectagle eith the different text formate in the words
+            </summary>
+        </member>
+        <member name="M:Testing.VariableDeclarationTest.Parse_VariableDeclaration_SingleVariableOnly">
+            <summary>
+            this method will check weather the enter command with variable is command like circle x
+            </summary>
+        </member>
+    </members>
+</doc>

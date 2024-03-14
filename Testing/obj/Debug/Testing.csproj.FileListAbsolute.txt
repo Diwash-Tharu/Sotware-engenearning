@@ -1,0 +1,60 @@
+C:\Users\diwas\source\repos\Assigment\Diwash_Tharu\Testing\obj\Debug\Testing.csproj.AssemblyReference.cache
+C:\Users\diwas\source\repos\Assigment\Diwash_Tharu\Testing\obj\Debug\Testing.csproj.CoreCompileInputs.cache
+C:\Users\diwas\source\repos\Assigment\Diwash_Tharu\Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\diwas\source\repos\Assigment\Diwash_Tharu\Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\diwas\source\repos\Assigment\Diwash_Tharu\Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\diwas\source\repos\Assigment\Diwash_Tharu\Testing\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\diwas\source\repos\Assigment\Diwash_Tharu\Testing\bin\Debug\Testing.dll
+C:\Users\diwas\source\repos\Assigment\Diwash_Tharu\Testing\bin\Debug\Testing.pdb
+C:\Users\diwas\source\repos\Assigment\Diwash_Tharu\Testing\bin\Debug\Diwash_Tharu.exe
+C:\Users\diwas\source\repos\Assigment\Diwash_Tharu\Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\diwas\source\repos\Assigment\Diwash_Tharu\Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\diwas\source\repos\Assigment\Diwash_Tharu\Testing\bin\Debug\Diwash_Tharu.pdb
+C:\Users\diwas\source\repos\Assigment\Diwash_Tharu\Testing\bin\Debug\Diwash_Tharu.exe.config
+C:\Users\diwas\source\repos\Assigment\Diwash_Tharu\Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\diwas\source\repos\Assigment\Diwash_Tharu\Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\diwas\source\repos\Assigment\Diwash_Tharu\Testing\obj\Debug\Testing.csproj.CopyComplete
+C:\Users\diwas\source\repos\Assigment\Diwash_Tharu\Testing\obj\Debug\Testing.dll
+C:\Users\diwas\source\repos\Assigment\Diwash_Tharu\Testing\obj\Debug\Testing.pdb
+C:\Users\diwas\source\repos\Assigment\Diwash_Tharu\Testing\bin\Debug\Diwash_Tharu.xml
+C:\Users\diwas\source\repos\Assigment\Diwash_Tharu\Testing\bin\Debug\Testing.xml
+C:\Users\diwas\source\repos\Assigment project\Diwash_Tharu\Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\diwas\source\repos\Assigment project\Diwash_Tharu\Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\diwas\source\repos\Assigment project\Diwash_Tharu\Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\diwas\source\repos\Assigment project\Diwash_Tharu\Testing\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\diwas\source\repos\Assigment project\Diwash_Tharu\Testing\bin\Debug\Testing.xml
+C:\Users\diwas\source\repos\Assigment project\Diwash_Tharu\Testing\bin\Debug\Testing.dll
+C:\Users\diwas\source\repos\Assigment project\Diwash_Tharu\Testing\bin\Debug\Testing.pdb
+C:\Users\diwas\source\repos\Assigment project\Diwash_Tharu\Testing\bin\Debug\Diwash_Tharu.exe
+C:\Users\diwas\source\repos\Assigment project\Diwash_Tharu\Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\diwas\source\repos\Assigment project\Diwash_Tharu\Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\diwas\source\repos\Assigment project\Diwash_Tharu\Testing\bin\Debug\Diwash_Tharu.pdb
+C:\Users\diwas\source\repos\Assigment project\Diwash_Tharu\Testing\bin\Debug\Diwash_Tharu.xml
+C:\Users\diwas\source\repos\Assigment project\Diwash_Tharu\Testing\bin\Debug\Diwash_Tharu.exe.config
+C:\Users\diwas\source\repos\Assigment project\Diwash_Tharu\Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\diwas\source\repos\Assigment project\Diwash_Tharu\Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\diwas\source\repos\Assigment project\Diwash_Tharu\Testing\obj\Debug\Testing.csproj.AssemblyReference.cache
+C:\Users\diwas\source\repos\Assigment project\Diwash_Tharu\Testing\obj\Debug\Testing.csproj.CoreCompileInputs.cache
+C:\Users\diwas\source\repos\Assigment project\Diwash_Tharu\Testing\obj\Debug\Testing.csproj.CopyComplete
+C:\Users\diwas\source\repos\Assigment project\Diwash_Tharu\Testing\obj\Debug\Testing.dll
+C:\Users\diwas\source\repos\Assigment project\Diwash_Tharu\Testing\obj\Debug\Testing.pdb
+C:\Users\diwas\source\repos\ASEDiwashTharuProject2024\Diwash_Tharu\Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\diwas\source\repos\ASEDiwashTharuProject2024\Diwash_Tharu\Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\diwas\source\repos\ASEDiwashTharuProject2024\Diwash_Tharu\Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\diwas\source\repos\ASEDiwashTharuProject2024\Diwash_Tharu\Testing\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\diwas\source\repos\ASEDiwashTharuProject2024\Diwash_Tharu\Testing\bin\Debug\Testing.xml
+C:\Users\diwas\source\repos\ASEDiwashTharuProject2024\Diwash_Tharu\Testing\bin\Debug\Testing.dll
+C:\Users\diwas\source\repos\ASEDiwashTharuProject2024\Diwash_Tharu\Testing\bin\Debug\Testing.pdb
+C:\Users\diwas\source\repos\ASEDiwashTharuProject2024\Diwash_Tharu\Testing\bin\Debug\Diwash_Tharu.exe
+C:\Users\diwas\source\repos\ASEDiwashTharuProject2024\Diwash_Tharu\Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\diwas\source\repos\ASEDiwashTharuProject2024\Diwash_Tharu\Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\diwas\source\repos\ASEDiwashTharuProject2024\Diwash_Tharu\Testing\bin\Debug\Diwash_Tharu.pdb
+C:\Users\diwas\source\repos\ASEDiwashTharuProject2024\Diwash_Tharu\Testing\bin\Debug\Diwash_Tharu.xml
+C:\Users\diwas\source\repos\ASEDiwashTharuProject2024\Diwash_Tharu\Testing\bin\Debug\Diwash_Tharu.exe.config
+C:\Users\diwas\source\repos\ASEDiwashTharuProject2024\Diwash_Tharu\Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\diwas\source\repos\ASEDiwashTharuProject2024\Diwash_Tharu\Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\diwas\source\repos\ASEDiwashTharuProject2024\Diwash_Tharu\Testing\obj\Debug\Testing.csproj.AssemblyReference.cache
+C:\Users\diwas\source\repos\ASEDiwashTharuProject2024\Diwash_Tharu\Testing\obj\Debug\Testing.csproj.CoreCompileInputs.cache
+C:\Users\diwas\source\repos\ASEDiwashTharuProject2024\Diwash_Tharu\Testing\obj\Debug\Testing.csproj.CopyComplete
+C:\Users\diwas\source\repos\ASEDiwashTharuProject2024\Diwash_Tharu\Testing\obj\Debug\Testing.dll
+C:\Users\diwas\source\repos\ASEDiwashTharuProject2024\Diwash_Tharu\Testing\obj\Debug\Testing.pdb

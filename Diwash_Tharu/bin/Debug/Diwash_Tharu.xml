@@ -1,0 +1,514 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Diwash_Tharu</name>
+    </assembly>
+    <members>
+        <member name="T:Diwash_Tharu.Circle">
+            <summary>
+            this class use inheritance to imtroduce the code inside this class 
+            </summary>
+        </member>
+        <member name="F:Diwash_Tharu.Circle._defaultRadius">
+            <summary>
+            inital raduis of the circle 
+            </summary>
+        </member>
+        <member name="M:Diwash_Tharu.Circle.#ctor(System.Drawing.Point,System.Boolean,System.Drawing.Color,System.Int32)">
+            <summary>
+            this is the method to create the cirle 
+            </summary>
+            <param name="position">get the position</param>
+            <param name="fill">get the boolean to fll the colo </param>
+            <param name="penColor">get the pen color </param>
+            <param name="radius">get the radius from the user</param>
+        </member>
+        <member name="T:Diwash_Tharu.CmdShapeNum">
+            <summary>
+            this class is use to get the words and values form the multi line and single line 
+            </summary>
+        </member>
+        <member name="P:Diwash_Tharu.CmdShapeNum.ActionValues">
+            <summary>
+            this method will get the value like circle 90 it will store the 90 only value 
+            </summary>
+        </member>
+        <member name="M:Diwash_Tharu.CmdShapeNum.#ctor(Diwash_Tharu.Action,System.Int32[])">
+            <summary>
+            this code will store the bothe the words as well as the thir respective number
+            </summary>
+            <param name="actionWords"></param>
+            <param name="actionValues"></param>
+        </member>
+        <member name="M:Diwash_Tharu.CommandEndKeyword.#ctor(Diwash_Tharu.Action)">
+            <summary>
+            Constructor used to create a new instance of the <see cref="T:Diwash_Tharu.CommandEndKeyword" /> class.
+            </summary>
+            <param name="actionWord">The action word.</param>
+        </member>
+        <member name="T:Diwash_Tharu.Command_Praser">
+            <summary>
+            this methos is use to get the action words like rectangle square this is the parrent class of the shape 
+            and it set the value from the enumerator
+            </summary>
+        </member>
+        <member name="T:Diwash_Tharu.Action">
+            <summary>
+            An enum is a special "class" that represents a group of constants which is also called as the enumerator
+            </summary>
+        </member>
+        <member name="F:Diwash_Tharu.Form1.point">
+            <summary>
+            this the instanc of the class and point is the referenc of the class
+            </summary>
+        </member>
+        <member name="F:Diwash_Tharu.Form1.ShapesCommandValid">
+            <summary>
+            checking the  command with the
+            </summary>
+        </member>
+        <member name="F:Diwash_Tharu.Form1._dictionaryOfVariables">
+            <summary>
+            creating  the dictionary  and name as the _dictionaryOfVariables
+            </summary>
+        </member>
+        <member name="M:Diwash_Tharu.Form1.#ctor">
+            <summary>
+            this is the main method
+            </summary>
+        </member>
+        <member name="M:Diwash_Tharu.Form1.dispalyPictureBox_Paint(System.Object,System.Windows.Forms.PaintEventArgs)">
+            <summary>
+            this will display the graphic image inside this paint box
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Diwash_Tharu.Form1.singleLineCommand_KeyDown(System.Object,System.Windows.Forms.KeyEventArgs)">
+            <summary>
+            get the command from the single line commnad 
+            and send to the btn click command 
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Diwash_Tharu.Form1.multiThreadHande">
+             <summary>
+            this method is used for the multi threading 
+             </summary>
+        </member>
+        <member name="M:Diwash_Tharu.Form1.RunBtn_Click(System.Object,System.EventArgs)">
+            <summary>
+            this mehto is usde when the use click on the run button
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Diwash_Tharu.Form1.excuitCommand(System.String)">
+            <summary>
+            this method is used for the executing the code
+            </summary>
+            <param name="mulilinecommand">this the method which calculate the command when you write mutiple command</param>
+        </member>
+        <member name="M:Diwash_Tharu.Form1.Methodexecuit(System.String)">
+            <summary>
+            this method check wather the metho name is there or not and if it has than it give valid 
+            </summary>
+            <param name="methodInitlized"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Diwash_Tharu.Form1.methodCallLast(System.String,System.String)">
+            <summary>
+            this method is used to check weathe the function is cllled or not
+            </summary>
+            <param name="methodCallLast"></param>
+            <param name="MethodName"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Diwash_Tharu.Form1.displaycommand(System.Drawing.Graphics,Diwash_Tharu.CmdShapeNum)">
+            <summary>
+            this method will make accept the command and draw inside the picture box 
+            </summary>
+            <param name="g"></param>
+            <param name="command"></param>
+        </member>
+        <member name="M:Diwash_Tharu.Form1.SyntaxBtn_Click(System.Object,System.EventArgs)">
+            <summary>
+            this method will check the syntax it wil run all the commadn except the making the shaop or we can say the ecxep main eixuation command 
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Diwash_Tharu.Form1.Open_Click(System.Object,System.EventArgs)">
+            <summary>
+            this method is used for the to open the txt filw where the user has inter the command 
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Diwash_Tharu.Form1.Save_Click(System.Object,System.EventArgs)">
+            <summary>
+            this method will sava all the command or words from the milti text line to inside our file 
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="F:Diwash_Tharu.Form1.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Diwash_Tharu.Form1.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Diwash_Tharu.Form1.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Diwash_Tharu.Form2.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Diwash_Tharu.Form2.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Diwash_Tharu.Form2.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:Diwash_Tharu.IfConditon">
+            <summary>
+            Represents an if condition in a command parser.
+            </summary>
+        </member>
+        <member name="P:Diwash_Tharu.IfConditon.IfState">
+            <summary>
+            it get the if value 
+            </summary>
+        </member>
+        <member name="P:Diwash_Tharu.IfConditon.StartIndex">
+            <summary>
+            Gets or sets the start index of the if condition.
+            </summary>
+        </member>
+        <member name="P:Diwash_Tharu.IfConditon.EndIndex">
+            <summary>
+            Gets or sets the end index of the if condition.
+            </summary>
+        </member>
+        <member name="M:Diwash_Tharu.IfConditon.#ctor(Diwash_Tharu.Action,System.Boolean,System.Int32,System.Int32)">
+            <summary>
+            Initializes a new instance of the <see cref="!:IfCondition"/> class.
+            </summary>
+            <param name="actionWord">The action word associated with the condition.</param>
+            <param name="ifState">The state of the if condition.</param>
+            <param name="startIndex">The start index of the if condition.</param>
+            <param name="endIndex">The end index of the if condition.</param>
+        </member>
+        <member name="T:Diwash_Tharu.ImageInterface">
+            <summary>
+            this is the interfacr to draw the  daigram 
+            </summary>
+        </member>
+        <member name="T:Diwash_Tharu.Line">
+            <summary>
+             it inheriate the  form the shapes  to use that function inside this class
+            </summary>
+        </member>
+        <member name="F:Diwash_Tharu.Line._defaultToPosition">
+            <summary>
+            set the default position ofn the line 
+            </summary>
+        </member>
+        <member name="M:Diwash_Tharu.Line.#ctor">
+            <summary>
+            Blank constructor to create a Line object, set to a constant default Point value.
+            </summary>
+        </member>
+        <member name="M:Diwash_Tharu.Line.#ctor(System.Drawing.Point,System.Boolean,System.Drawing.Color,System.Drawing.Point)">
+            <summary>
+            main construction to draw the line 
+            </summary>
+            <param name="currentPosition">Current position of the cursor.</param>
+            <param name="fill">Current fill state of the cursor.</param>
+            <param name="penColor">Current pen color from the cursor.</param>
+            <param name="toPosition">Position where the Line should end at.</param>
+        </member>
+        <member name="M:Diwash_Tharu.Line.Draw(System.Drawing.Graphics)">
+            <summary>
+            Draws a Line to a given position on a WinForms control
+            </summary>
+            <param name="g">Graphics context to draw a shape.</param>
+        </member>
+        <member name="P:Diwash_Tharu.MethodCondition.methodName">
+            <summary>
+            this will store method name  and set them 
+            </summary>
+        </member>
+        <member name="P:Diwash_Tharu.MethodCondition.Methodcall">
+            <summary>
+            this will set the method is call's name 
+            </summary>
+        </member>
+        <member name="P:Diwash_Tharu.MethodCondition.EndIndex">
+            <summary>
+            this will set the starting adn ending value of the method
+            </summary>
+        </member>
+        <member name="M:Diwash_Tharu.MethodCondition.#ctor(Diwash_Tharu.Action,System.String,System.Boolean,System.Int32,System.Int32)">
+            <summary>
+            this code will store the bothe the words as well as the thir respective number
+            </summary>
+            <param name="actionWords"></param>
+            <param name="actionValues"></param>
+        </member>
+        <member name="T:Diwash_Tharu.NegativeNumberException">
+            <summary>
+            Represents an exception that is thrown when a negative number is encountered.
+            </summary>
+        </member>
+        <member name="M:Diwash_Tharu.NegativeNumberException.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Diwash_Tharu.NegativeNumberException"/> class with a specified error message.
+            </summary>
+        </member>
+        <member name="M:Diwash_Tharu.Pointers.#ctor">
+            <summary>
+            Blank constructor to create a Cursor object.
+            </summary>
+        </member>
+        <member name="M:Diwash_Tharu.Pointers.MoveTo(System.Drawing.Point)">
+             <summary>
+            update the pointer position
+             </summary>
+             <param name="position">New position of the cursor.</param>
+        </member>
+        <member name="M:Diwash_Tharu.Pointers.ChangePenColor(System.Drawing.Color)">
+            <summary>
+            initilize the pen color inside the penColor
+            </summary>
+            <param name="penColor"></param>
+        </member>
+        <member name="M:Diwash_Tharu.Pointers.ChangeFillState(System.Boolean)">
+            <summary>
+            initize the fill state in the command 
+            </summary>
+            <param name="fillState"></param>
+        </member>
+        <member name="M:Diwash_Tharu.Pointers.Draw(System.Drawing.Graphics)">
+            <summary>
+            Draws a cursor on a WinForms control.
+            </summary>
+            <param name="g">Graphics context to draw a shape.</param>
+        </member>
+        <member name="F:Diwash_Tharu.Process.RegexDrawWithVariables">
+            <summary>
+            this code is used for the multi line code and to exucate the code
+            </summary>
+        </member>
+        <member name="M:Diwash_Tharu.Process.DrawShape_WithNumbers(System.String)">
+            <summary>
+            this method will seperate withe their commmand values and command
+            </summary>
+            <param name="inputFull">this will aceprt the coomand words</param>
+            <returns></returns>
+            <exception cref="T:System.ArgumentException"></exception>
+        </member>
+        <member name="M:Diwash_Tharu.Process.ParseAction_CommandName(System.String)">
+            <summary>
+            retuen the respective enmus action
+            </summary> this check weather the enter commadn is valid or not withe the comparing with tne emums
+            <param name="input"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Diwash_Tharu.Process.valideCommandParameters(System.String[])">
+            <summary>
+            checking wether the enter parametrs are postivie and do not exceed
+            </summary>
+            <param name="inputStringArray"> this check weathr the enter parameter are with in the range or not</param>
+            <returns></returns>
+            <exception cref="T:System.ArgumentException"></exception>
+        </member>
+        <member name="M:Diwash_Tharu.Process.ExtractStrings(System.String,System.String,System.String)">
+            <summary>
+            this method check wathet the method is call or not in the command
+            </summary>
+            <param name="input"></param>
+            <param name="startWord"></param>
+            <param name="endWord"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Diwash_Tharu.Rectangles.#ctor">
+            <summary>
+            Blank constructor to create a Rectangle object with constant default dimension values.
+            </summary>
+        </member>
+        <member name="M:Diwash_Tharu.Rectangles.#ctor(System.Drawing.Point,System.Boolean,System.Drawing.Color,System.Int32,System.Int32)">
+            <summary>
+            Main constructor to create a Rectangle object.
+            </summary>
+            <param name="position">Current position of the cursor.</param>
+            <param name="fill">wether to fill the  daigram or not</param>
+            <param name="penColor">choose the pen color.</param>
+            <param name="length">Length of the Rectangle.</param>
+            <param name="height">Height of the Rectangle.</param>
+        </member>
+        <member name="M:Diwash_Tharu.Rectangles.Draw(System.Drawing.Graphics)">
+            <summary>
+            Draws a Rectangle on a WinForms control
+            </summary>
+            <param name="g"> draw a shape.</param>
+        </member>
+        <member name="M:Diwash_Tharu.ShapeMaker.CreateShape(Diwash_Tharu.CmdShapeNum,System.Drawing.Point,System.Boolean,System.Drawing.Color)">
+            <summary>
+            this code will make the  image of different  daigram  in the pictire box
+            </summary>
+            <param name="commandShape">get  the command </param>
+            <param name="position">get the position where to build</param>
+            <param name="fill">wether to fill  the shap or not</param>
+            <param name="penColor">choosing the pen color </param>
+            <returns></returns>
+            <exception cref="T:System.ArgumentException"></exception>
+        </member>
+        <member name="T:Diwash_Tharu.Shapes">
+            <summary>
+            inharitjng the Imageinterface class
+            </summary>
+        </member>
+        <member name="P:Diwash_Tharu.Shapes.Position">
+            <summary>
+            getting the positon from the different methods and setting them 
+            </summary>
+        </member>
+        <member name="M:Diwash_Tharu.Shapes.#ctor(System.Drawing.Point,System.Boolean,System.Drawing.Color)">
+            <summary>
+            codw will initilize for the postion, fill, pencolor
+            </summary>
+            <param name="position"></param>
+            <param name="fill"></param>
+            <param name="penColor"></param>
+        </member>
+        <member name="M:Diwash_Tharu.Shapes.Draw(System.Drawing.Graphics)">
+            <summary>
+            this is tha abstract class of the Draw of the class
+            </summary>
+            <param name="g"></param>
+        </member>
+        <member name="T:Diwash_Tharu.Square">
+            <summary>
+            Represents a square shape in a graphics context.
+            </summary>
+        </member>
+        <member name="P:Diwash_Tharu.Square.SideLength">
+            private readonly int _defaultSideLength = 100;
+             <summary>
+             Gets or sets the side length of the square.
+             </summary>
+        </member>
+        <member name="M:Diwash_Tharu.Square.#ctor(System.Drawing.Point,System.Boolean,System.Drawing.Color,System.Int32)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Diwash_Tharu.Square"/> class with specified properties.
+            </summary>
+            <param name="position">The position of the square.</param>
+            <param name="fill">Determines whether the square is filled or outlined.</param>
+            <param name="penColor">The color of the square's pen (outline).</param>
+            <param name="sideLength">The side length of the square.</param>
+        </member>
+        <member name="M:Diwash_Tharu.Square.Draw(System.Drawing.Graphics)">
+            <summary>
+            Draws the square on the specified graphics context.
+            </summary>
+            <param name="g">The graphics context on which to draw the square.</param>
+        </member>
+        <member name="T:Diwash_Tharu.Triangle">
+            <summary>
+            A class that implements the <see cref="!:Shape" /> parent class and is used to create <see cref="T:Diwash_Tharu.Triangle" /> objects and draw them on a WinForms control.
+            </summary>
+            <seealso cref="!:Shape" />
+        </member>
+        <member name="M:Diwash_Tharu.Triangle.#ctor">
+            <summary>
+            this code is use to make the triangle 
+            
+            </summary>
+        </member>
+        <member name="M:Diwash_Tharu.Triangle.#ctor(System.Drawing.Point,System.Boolean,System.Drawing.Color,System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Main constructor to create a right-angled Triangle object with given parameters.
+            </summary>
+            <param name="position">current position.</param>
+            <param name="fill">fill status of the code.</param>
+            <param name="penColor">Current pen coloe.</param>
+        </member>
+        <member name="M:Diwash_Tharu.Triangle.SetupTriangleVertices(System.Int32,System.Int32,System.Int32)">
+            <summary>
+            side lenght of the  right-angled Triangle.
+            </summary>
+            <param name="length">Length of the sides of the Triangle, used to setup the vertices.</param>
+        </member>
+        <member name="M:Diwash_Tharu.Triangle.Draw(System.Drawing.Graphics)">
+            <summary>
+            Draw the triangle of the code 
+            </summary>
+        </member>
+        <member name="T:Diwash_Tharu.WhileCommand">
+            <summary>
+            Represents a while loop command in a command parser.
+            </summary>
+        </member>
+        <member name="P:Diwash_Tharu.WhileCommand.whileStates">
+            <summary>
+            Gets or sets the state of the while loop.
+            </summary>
+        </member>
+        <member name="P:Diwash_Tharu.WhileCommand.StartIndex">
+            <summary>
+            Gets or sets the start index of the while loop.
+            </summary>
+        </member>
+        <member name="P:Diwash_Tharu.WhileCommand.EndIndex">
+            <summary>
+            Gets or sets the end index of the while loop.
+            </summary>
+        </member>
+        <member name="P:Diwash_Tharu.WhileCommand.LoopCount">
+            <summary>
+            Gets or sets the loop count associated with the while loop.
+            </summary>
+        </member>
+        <member name="M:Diwash_Tharu.WhileCommand.#ctor(Diwash_Tharu.Action,System.Int32,System.Boolean,System.Int32,System.Int32)">
+            <summary>
+            Constructor used to create a new instance of the <see cref="!:whilecommand"/> class.
+            </summary>
+            <param name="actionWord">The action word.</param>
+            <param name="loopCount">The loop count.</param>
+        </member>
+        <member name="T:Diwash_Tharu.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:Diwash_Tharu.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:Diwash_Tharu.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>

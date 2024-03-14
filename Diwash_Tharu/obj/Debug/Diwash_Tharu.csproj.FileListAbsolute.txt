@@ -1,0 +1,35 @@
+C:\Users\diwas\source\repos\Assigment\Diwash_Tharu\Diwash_Tharu\bin\Debug\Diwash_Tharu.exe.config
+C:\Users\diwas\source\repos\Assigment\Diwash_Tharu\Diwash_Tharu\bin\Debug\Diwash_Tharu.exe
+C:\Users\diwas\source\repos\Assigment\Diwash_Tharu\Diwash_Tharu\bin\Debug\Diwash_Tharu.pdb
+C:\Users\diwas\source\repos\Assigment\Diwash_Tharu\Diwash_Tharu\obj\Debug\Diwash_Tharu.csproj.AssemblyReference.cache
+C:\Users\diwas\source\repos\Assigment\Diwash_Tharu\Diwash_Tharu\obj\Debug\Diwash_Tharu.Form1.resources
+C:\Users\diwas\source\repos\Assigment\Diwash_Tharu\Diwash_Tharu\obj\Debug\Diwash_Tharu.Properties.Resources.resources
+C:\Users\diwas\source\repos\Assigment\Diwash_Tharu\Diwash_Tharu\obj\Debug\Diwash_Tharu.csproj.GenerateResource.cache
+C:\Users\diwas\source\repos\Assigment\Diwash_Tharu\Diwash_Tharu\obj\Debug\Diwash_Tharu.csproj.CoreCompileInputs.cache
+C:\Users\diwas\source\repos\Assigment\Diwash_Tharu\Diwash_Tharu\obj\Debug\Diwash_Tharu.exe
+C:\Users\diwas\source\repos\Assigment\Diwash_Tharu\Diwash_Tharu\obj\Debug\Diwash_Tharu.pdb
+C:\Users\diwas\source\repos\Assigment\Diwash_Tharu\Diwash_Tharu\bin\Debug\Diwash_Tharu.xml
+C:\Users\diwas\source\repos\Assigment project\Diwash_Tharu\Diwash_Tharu\obj\Debug\Diwash_Tharu.csproj.AssemblyReference.cache
+C:\Users\diwas\source\repos\Assigment project\Diwash_Tharu\Diwash_Tharu\obj\Debug\Diwash_Tharu.Form1.resources
+C:\Users\diwas\source\repos\Assigment project\Diwash_Tharu\Diwash_Tharu\obj\Debug\Diwash_Tharu.Properties.Resources.resources
+C:\Users\diwas\source\repos\Assigment project\Diwash_Tharu\Diwash_Tharu\obj\Debug\Diwash_Tharu.csproj.GenerateResource.cache
+C:\Users\diwas\source\repos\Assigment project\Diwash_Tharu\Diwash_Tharu\obj\Debug\Diwash_Tharu.csproj.CoreCompileInputs.cache
+C:\Users\diwas\source\repos\Assigment project\Diwash_Tharu\Diwash_Tharu\obj\Debug\Diwash_Tharu.exe
+C:\Users\diwas\source\repos\Assigment project\Diwash_Tharu\Diwash_Tharu\obj\Debug\Diwash_Tharu.pdb
+C:\Users\diwas\source\repos\Assigment project\Diwash_Tharu\Diwash_Tharu\bin\Debug\Diwash_Tharu.exe.config
+C:\Users\diwas\source\repos\Assigment project\Diwash_Tharu\Diwash_Tharu\bin\Debug\Diwash_Tharu.xml
+C:\Users\diwas\source\repos\Assigment project\Diwash_Tharu\Diwash_Tharu\bin\Debug\Diwash_Tharu.exe
+C:\Users\diwas\source\repos\Assigment project\Diwash_Tharu\Diwash_Tharu\bin\Debug\Diwash_Tharu.pdb
+C:\Users\diwas\source\repos\Assigment project\Diwash_Tharu\Diwash_Tharu\obj\Debug\Diwash_Tharu.Form2.resources
+C:\Users\diwas\source\repos\ASEDiwashTharuProject2024\Diwash_Tharu\Diwash_Tharu\bin\Debug\Diwash_Tharu.exe.config
+C:\Users\diwas\source\repos\ASEDiwashTharuProject2024\Diwash_Tharu\Diwash_Tharu\bin\Debug\Diwash_Tharu.xml
+C:\Users\diwas\source\repos\ASEDiwashTharuProject2024\Diwash_Tharu\Diwash_Tharu\bin\Debug\Diwash_Tharu.exe
+C:\Users\diwas\source\repos\ASEDiwashTharuProject2024\Diwash_Tharu\Diwash_Tharu\bin\Debug\Diwash_Tharu.pdb
+C:\Users\diwas\source\repos\ASEDiwashTharuProject2024\Diwash_Tharu\Diwash_Tharu\obj\Debug\Diwash_Tharu.csproj.AssemblyReference.cache
+C:\Users\diwas\source\repos\ASEDiwashTharuProject2024\Diwash_Tharu\Diwash_Tharu\obj\Debug\Diwash_Tharu.Form1.resources
+C:\Users\diwas\source\repos\ASEDiwashTharuProject2024\Diwash_Tharu\Diwash_Tharu\obj\Debug\Diwash_Tharu.Form2.resources
+C:\Users\diwas\source\repos\ASEDiwashTharuProject2024\Diwash_Tharu\Diwash_Tharu\obj\Debug\Diwash_Tharu.Properties.Resources.resources
+C:\Users\diwas\source\repos\ASEDiwashTharuProject2024\Diwash_Tharu\Diwash_Tharu\obj\Debug\Diwash_Tharu.csproj.GenerateResource.cache
+C:\Users\diwas\source\repos\ASEDiwashTharuProject2024\Diwash_Tharu\Diwash_Tharu\obj\Debug\Diwash_Tharu.csproj.CoreCompileInputs.cache
+C:\Users\diwas\source\repos\ASEDiwashTharuProject2024\Diwash_Tharu\Diwash_Tharu\obj\Debug\Diwash_Tharu.exe
+C:\Users\diwas\source\repos\ASEDiwashTharuProject2024\Diwash_Tharu\Diwash_Tharu\obj\Debug\Diwash_Tharu.pdb
